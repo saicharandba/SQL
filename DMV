@@ -1,0 +1,3 @@
+-----To check th information about data cache which is in Buffer pool.
+
+select * from sys.dm_os_buffer_descriptors
